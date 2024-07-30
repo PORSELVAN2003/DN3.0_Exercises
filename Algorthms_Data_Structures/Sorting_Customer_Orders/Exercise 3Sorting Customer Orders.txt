@@ -1,0 +1,22 @@
+
+
+ Bubble Sort
+
+Time Complexity:
+  Best Case: ( O(n) ) (when the array is already sorted)
+  Average Case: ( O(n^2) )
+  Worst Case: ( O(n^2) )
+ 
+  1.Bubble Sort repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. This process is repeated until the list is sorted.
+  2.It has a simple implementation but is not efficient for large datasets.
+
+ Quick Sort
+
+Time Complexity:
+  Best Case: ( O(n log n) )
+  Average Case: ( O(n log n) )
+  Worst Case: ( O(n^2) ) 
+
+  1.Quick Sort is a divide-and-conquer algorithm that selects a pivot element, partitions the array around the pivot such that elements less than the pivot are on the left, and elements greater than the pivot are on the right. It then recursively sorts the subarrays.
+  2. It is generally more efficient than Bubble Sort due to its divide-and-conquer approach.
+
