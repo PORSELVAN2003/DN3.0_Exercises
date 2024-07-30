@@ -1,0 +1,32 @@
+Exercise 1: Inventory Management System
+
+ Time Complexity Analysis
+
+1. Add (Insert) Operation
+   - Average Case: ( O(1) )
+   - Worst Case: ( O(n) )
+   
+   
+
+2. Update Operation
+   - Average Case: ( O(1) )
+   - Worst Case**: ( O(n) )
+   
+   
+
+3. Delete Operation
+   - Average Case: ( O(1) )
+   - Worst Case: ( O(n) )
+   
+  Optimization Strategies
+
+1. Minimize Collisions
+2. Rehashing
+   
+3. Collision Resolution
+   
+4. Efficient Deletion
+  
+5. Memory Management
+   - Efficient Memory Allocation: Optimize memory allocation for buckets and entries to reduce the overhead of memory operations. Using contiguous memory blocks can improve cache performance and overall operation speed.
+

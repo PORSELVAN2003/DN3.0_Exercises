@@ -1,0 +1,26 @@
+
+LINKED LIST
+ 1. Add Operation
+  Time Complexity:
+  Insertion at the Beginning: ( O(1) )
+  Insertion at the End: ( O(n) ) (if traversing to the end is required)
+  
+
+2. Search Operation
+  Time Complexity:
+  Linear Search: ( O(n) ), as each node must be visited sequentially.
+
+
+
+ 3. Traverse Operation
+     Time Complexity:
+     Traversal: ( O(n) ), as each node must be visited exactly once.
+
+
+
+ 4. Delete Operation
+    Time Complexity:
+    Deletion at the Beginning: (( O(1) )
+    Deletion at the End: (( O(n) ) (requires traversal to the second-to-last node)
+    Deletion at a Specific Position: ( O(n) ) (requires traversal to the node before the one to be deleted)
+
